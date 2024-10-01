@@ -8,7 +8,7 @@
 | v2.0.0 | Version 2 | [Download](https://www.mediafire.com/file/m9rx0fjyfeoug1e/YoutubeToMP3.rar/file) 
 
 ### Application
-'asd'
+`npm install`
 
 ![Image Link](https://github.com/unrealisticfaces/youtube2mp3/blob/main/photos/449838824_1311365133153937_4272850927892661118_n.jpg)
 

